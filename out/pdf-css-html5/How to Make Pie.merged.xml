@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/brian/OneDrive/Documents/Webpages%20Git%20VS%20Code/tc3/How%20to%20Make%20Pie.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">How to Make Pie</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">How to Make Pie</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept"><resourceid appid="concept" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Pumpkin Pie</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This tutorial will show you how to create a pumpkin pie. </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_2" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference"><resourceid appid="reference" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Crust Ingredients</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">List of ingredients for pumpkin filling</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task"><resourceid appid="task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Directions for Pie Crust</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Step-by-step guide for creating the pie crust.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="pumpkin_filling_ingredients"><resourceid appid="pumpkin_filling_ingredients" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Pumpkin Filling Ingredients</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">List of ingredients for pumpkin filling</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="pumpkin_filling_task"><resourceid appid="pumpkin_filling_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Directions for Pumpkin Filling</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Step-by-step guide for creating the pumpkin filling. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="bake_task"><resourceid appid="bake_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Bake the Pie</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This task will result in a completed pie. </shortdesc></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept"><resourceid appid="concept" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Apple Pie</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This tutorial will show you how to create an apple pie. </shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_2" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="reference"><resourceid appid="reference" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2_ssol1" class="- topic/navtitle ">Crust Ingredients</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">List of ingredients for pumpkin filling</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task"><resourceid appid="task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3_ssol1" class="- topic/navtitle ">Directions for Pie Crust</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Step-by-step guide for creating the pie crust.</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_8" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="pumpkin_filling_ingredients"><resourceid appid="pumpkin_filling_ingredients" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Apple Filling Ingredients</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">List of ingredients for apple filling</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="pumpkin_filling_task"><resourceid appid="pumpkin_filling_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Directions for Apple Filling</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Step-by-step guide for creating the apple filling. </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_6" type="task"><topicmeta class="- map/topicmeta " data-topic-id="bake_task"><resourceid appid="bake_task" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6_ssol1" class="- topic/navtitle ">Bake the Pie</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This task will result in a completed pie. </shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="concept" oid="concept" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Pumpkin Pie</ph></title>
+    <shortdesc class="- topic/shortdesc ">This tutorial will show you how to create a pumpkin pie. </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Pumpkin pie is likely the best pie for exactly two months out of the year: October and
+            November. Though scholars debate the accuracy of this statement, it is our fervent
+            belief that this is true. </p>
+        <p class="- topic/p ">To create a pumpkin pie, you will first make the crust, then the pie filling, and finally
+            assemble and bake. <image class="- topic/image " dita-ot:image-width="612" dita-ot:image-height="408" href="file:/C:/Users/brian/OneDrive/Documents/Webpages%20Git%20VS%20Code/tc3/images/pumpkin_pie.jpg" id="unique_1_Connect_42_image_zjh_3bj_hzb" nd:nd-id="image_zjh_3bj_hzb" placement="inline"/></p>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="reference" oid="reference" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Crust Ingredients</ph></title>
+    <shortdesc class="- topic/shortdesc ">List of ingredients for pumpkin filling</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">
+                    <p class="- topic/p ">2 1/2 cups all-purpose flour, plus more to dust, *measured correctly </p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">1/2 Tbsp granulated sugar </p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">1/2 tsp sea salt </p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">1/2 lb COLD unsalted butter, (2 sticks) diced into 1/4" pieces </p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">7 Tbsp ice water, (7 to 8 Tbsp)</p>
+                </li>
+            </ul>
+        </example>
+    </refbody>
+</reference><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="task" oid="task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Directions for Pie Crust</ph></title>
+    <shortdesc class="- topic/shortdesc ">Step-by-step guide for creating the pie crust.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Follow these instructions first. This will result in an unbaked pie crust.
+            <p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Place flour, sugar and salt into the bowl of a food processor and pulse a few
+                    times to combine. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Add cold diced butter and pulse the mixture until coarse crumbs form with some
+                    pea-sized pieces then stop mixing. Mixture should remain dry and powdery. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Add 7 Tbsp ice water and pulse just until moist clumps or small balls form.
+                    Press a piece of dough between your finger tips and if the dough sticks
+                    together, you have added enough water. If not, add more water a teaspoon full at
+                    a time. Be careful not to add too much water or the dough will be sticky and
+                    difficult to roll out.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Transfer dough to a clean work surface, and gather dough together into a ball
+                    (it should not be smooth and DO NOT knead the dough). Divide dough in half and
+                    flatten to form 2 disks. Cover with plastic wrap and refrigerate 1 hour before
+                    using in recipes that call for pie crust. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference class="- topic/topic       reference/reference " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="pumpkin_filling_ingredients" oid="pumpkin_filling_ingredients" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Pumpkin Filling Ingredients</ph></title>
+    <shortdesc class="- topic/shortdesc ">List of ingredients for pumpkin filling</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <ul class="- topic/ul " id="unique_4_Connect_42_ul_im2_qbj_hzb" nd:nd-id="ul_im2_qbj_hzb">
+                <li class="- topic/li ">1 (16 ounce) can pumpkin puree </li>
+                <li class="- topic/li ">1 (14 ounce) can sweetened condensed milk</li>
+                <li class="- topic/li ">2 large eggs</li>
+                <li class="- topic/li ">1 teaspoon pumpkin pie spice</li>
+            </ul>
+        </example>
+    </refbody>
+</reference><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="pumpkin_filling_task" oid="pumpkin_filling_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Directions for Pumpkin Filling</ph></title>
+    <shortdesc class="- topic/shortdesc ">Step-by-step guide for creating the pumpkin filling. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Do not create the pumpkin filling without the pie crust made and ready to go.
+            <p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Gather all ingredients.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Mix all ingredients in a large bowl until combined.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="bake_task" oid="bake_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Bake the Pie</ph></title>
+    <shortdesc class="- topic/shortdesc ">This task will result in a completed pie. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Bake time and temperature may change based on your oven.<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Preheat oven to 425 degrees F (220 degrees C)</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Fit pie crust into a 9-inch pie dish and place on a baking sheet</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Pour filling into pie crust</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">(Optional) Decorate top of pie with excess pie crust pastry</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Bake for 15 minutes. Reduce heat to 350 degrees F (175 degrees C) and continue
+                    baking until set, 30 to 40 minutes</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove from oven, set on wire rack, let cool completely before serving</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="concept" oid="concept" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Apple Pie</ph></title>
+    <shortdesc class="- topic/shortdesc ">This tutorial will show you how to create an apple pie. </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">Apple pie is debated to be the best pie for exactly three months out of the year:
+            September, October and November. Though scholars debate the accuracy of this statement,
+            it is our fervent belief that while apple pie reigns supreme in September, pumpkin pie
+            is better for October and November.</p>
+        <p class="- topic/p ">To create an apple pie, you will first make the crust, then the pie filling, and finally
+            assemble and bake. <image class="- topic/image " dita-ot:image-width="1000" dita-ot:image-height="1500" href="file:/C:/Users/brian/OneDrive/Documents/Webpages%20Git%20VS%20Code/tc3/images/apple_pie.jpg" id="unique_7_Connect_42_image_inm_4dj_hzb" nd:nd-id="image_inm_4dj_hzb" placement="inline"/></p>
+    </conbody>
+<reference class="- topic/topic       reference/reference " id="unique_2_ssol1" topicrefclass="- map/topicref " nd:nd-id="reference" oid="reference" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Crust Ingredients</ph></title>
+    <shortdesc class="- topic/shortdesc ">List of ingredients for pumpkin filling</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">
+                    <p class="- topic/p ">2 1/2 cups all-purpose flour, plus more to dust, *measured correctly </p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">1/2 Tbsp granulated sugar </p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">1/2 tsp sea salt </p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">1/2 lb COLD unsalted butter, (2 sticks) diced into 1/4" pieces </p>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p ">7 Tbsp ice water, (7 to 8 Tbsp)</p>
+                </li>
+            </ul>
+        </example>
+    </refbody>
+</reference><task class="- topic/topic task/task " id="unique_3_ssol1" topicrefclass="- map/topicref " nd:nd-id="task" oid="task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Directions for Pie Crust</ph></title>
+    <shortdesc class="- topic/shortdesc ">Step-by-step guide for creating the pie crust.</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Follow these instructions first. This will result in an unbaked pie crust.
+            <p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Place flour, sugar and salt into the bowl of a food processor and pulse a few
+                    times to combine. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Add cold diced butter and pulse the mixture until coarse crumbs form with some
+                    pea-sized pieces then stop mixing. Mixture should remain dry and powdery. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Add 7 Tbsp ice water and pulse just until moist clumps or small balls form.
+                    Press a piece of dough between your finger tips and if the dough sticks
+                    together, you have added enough water. If not, add more water a teaspoon full at
+                    a time. Be careful not to add too much water or the dough will be sticky and
+                    difficult to roll out.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Transfer dough to a clean work surface, and gather dough together into a ball
+                    (it should not be smooth and DO NOT knead the dough). Divide dough in half and
+                    flatten to form 2 disks. Cover with plastic wrap and refrigerate 1 hour before
+                    using in recipes that call for pie crust. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference class="- topic/topic       reference/reference " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="pumpkin_filling_ingredients" oid="pumpkin_filling_ingredients" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Apple Filling Ingredients</ph></title>
+    <shortdesc class="- topic/shortdesc ">List of ingredients for apple filling</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <ul class="- topic/ul " id="unique_8_Connect_42_ul_im2_qbj_hzb" nd:nd-id="ul_im2_qbj_hzb">
+                <li class="- topic/li ">About 5 cups thinly sliced apples (peeled and cored), 8-10 medium apples </li>
+                <li class="- topic/li ">3 tablespoons sugar </li>
+                <li class="- topic/li ">3 tablespoons all-purpose flour </li>
+                <li class="- topic/li ">1-2 teaspoons cinnamon </li>
+                <li class="- topic/li ">¼ teaspoon salt </li>
+                <li class="- topic/li ">2 tablespoons butter, cut into small pieces </li>
+            </ul>
+        </example>
+    </refbody>
+</reference><task class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="pumpkin_filling_task" oid="pumpkin_filling_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Directions for Apple Filling</ph></title>
+    <shortdesc class="- topic/shortdesc ">Step-by-step guide for creating the apple filling. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Do not create the apple filling without the pie crust made and ready to go.
+            <p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Gather all ingredients.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">In a medium bowl add the sliced apples. </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Sprinkle with the sugar, flour, cinnamon, and salt and toss gently to combine
+                    well.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Place the small pieces of butter on top of apple mixture.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_6_ssol1" topicrefclass="- map/topicref " nd:nd-id="bake_task" oid="bake_task" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Bake the Pie</ph></title>
+    <shortdesc class="- topic/shortdesc ">This task will result in a completed pie. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">Bake time and temperature may change based on your oven.<p class="- topic/p "/></context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Preheat oven to 425 degrees F (220 degrees C)</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Fit pie crust into a 9-inch pie dish and place on a baking sheet</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Pour filling into pie crust</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">(Optional) Decorate top of pie with excess pie crust pastry</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Bake for 15 minutes. Reduce heat to 350 degrees F (175 degrees C) and continue
+                    baking until set, 30 to 40 minutes</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Remove from oven, set on wire rack, let cool completely before serving</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></concept></map>

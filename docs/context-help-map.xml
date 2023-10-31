@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept" path="topics/pumpkin_pie_concept.html"/>
+   <appContext helpID="reference" path="topics/crust_ing_ref.html"/>
+   <appContext helpID="task" path="topics/pie_crust_task.html"/>
+   <appContext helpID="pumpkin_filling_ingredients"
+               path="topics/pumpkin_filling_ingredients.html"/>
+   <appContext helpID="pumpkin_filling_task" path="topics/pumpkin_filling_task.html"/>
+   <appContext helpID="bake_task" path="topics/bake_task.html"/>
+   <appContext helpID="concept" path="topics/apple_pie_concept.html"/>
+   <appContext helpID="reference" path="topics/crust_ing_ref.html"/>
+   <appContext helpID="task" path="topics/pie_crust_task.html"/>
+   <appContext helpID="pumpkin_filling_ingredients"
+               path="topics/apple_filling_ingredients.html"/>
+   <appContext helpID="pumpkin_filling_task" path="topics/apple_filling_task.html"/>
+   <appContext helpID="bake_task" path="topics/bake_task.html"/>
+</map>
