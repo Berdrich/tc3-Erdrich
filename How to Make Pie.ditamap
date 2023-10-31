@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>How to Make Pie</title>
+    <topicref href="topics/pumpkin_pie_concept.dita">
+        <topicref href="topics/crust_ing_ref.dita"/>
+        <topicref href="topics/pie_crust_task.dita"/>
+        <topicref href="topics/pumpkin_filling_ingredients.dita"/>
+        <topicref href="topics/pumpkin_filling_task.dita"/>
+        <topicref href="topics/bake_task.dita"/>
+    </topicref>
+    <topicref href="topics/apple_pie_concept.dita">
+        <topicref href="topics/crust_ing_ref.dita"/>
+        <topicref href="topics/pie_crust_task.dita"/>
+        <topicref href="topics/apple_filling_ingredients.dita"/>
+        <topicref href="topics/apple_filling_task.dita"/>
+        <topicref href="topics/bake_task.dita"/>
+    </topicref>
+</map>

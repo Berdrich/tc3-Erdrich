@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="bake_task">
+    <title>Bake the Pie</title>
+    <shortdesc>This task will result in a completed pie. </shortdesc>
+    <taskbody>
+        <context>Bake time and temperature may change based on your oven.<p/></context>
+        <steps>
+            <step>
+                <cmd>Preheat oven to 425 degrees F (220 degrees C)</cmd>
+            </step>
+            <step>
+                <cmd>Fit pie crust into a 9-inch pie dish and place on a baking sheet</cmd>
+            </step>
+            <step>
+                <cmd>Pour filling into pie crust</cmd>
+            </step>
+            <step>
+                <cmd>(Optional) Decorate top of pie with excess pie crust pastry</cmd>
+            </step>
+            <step>
+                <cmd>Bake for 15 minutes. Reduce heat to 350 degrees F (175 degrees C) and continue
+                    baking until set, 30 to 40 minutes</cmd>
+            </step>
+            <step>
+                <cmd>Remove from oven, set on wire rack, let cool completely before serving</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

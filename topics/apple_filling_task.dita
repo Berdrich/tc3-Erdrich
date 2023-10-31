@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="pumpkin_filling_task">
+    <title>Directions for Apple Filling</title>
+    <shortdesc>Step-by-step guide for creating the apple filling. </shortdesc>
+    <taskbody>
+        <context>Do not create the apple filling without the pie crust made and ready to go.
+            <p/></context>
+        <steps>
+            <step>
+                <cmd>Gather all ingredients.</cmd>
+            </step>
+            <step>
+                <cmd>In a medium bowl add the sliced apples. </cmd>
+            </step>
+            <step>
+                <cmd>Sprinkle with the sugar, flour, cinnamon, and salt and toss gently to combine
+                    well.</cmd>
+            </step>
+            <step>
+                <cmd>Place the small pieces of butter on top of apple mixture.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

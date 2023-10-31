@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="pumpkin_filling_task">
+    <title>Directions for Pumpkin Filling</title>
+    <shortdesc>Step-by-step guide for creating the pumpkin filling. </shortdesc>
+    <taskbody>
+        <context>Do not create the pumpkin filling without the pie crust made and ready to go.
+            <p/></context>
+        <steps>
+            <step>
+                <cmd>Gather all ingredients.</cmd>
+            </step>
+            <step>
+                <cmd>Mix all ingredients in a large bowl until combined.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

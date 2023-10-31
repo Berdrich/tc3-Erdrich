@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task">
+    <title>Directions for Pie Crust</title>
+    <shortdesc>Step-by-step guide for creating the pie crust.</shortdesc>
+    <taskbody>
+        <context>Follow these instructions first. This will result in an unbaked pie crust.
+            <p/></context>
+        <steps>
+            <step>
+                <cmd>Place flour, sugar and salt into the bowl of a food processor and pulse a few
+                    times to combine. </cmd>
+            </step>
+            <step>
+                <cmd>Add cold diced butter and pulse the mixture until coarse crumbs form with some
+                    pea-sized pieces then stop mixing. Mixture should remain dry and powdery. </cmd>
+            </step>
+            <step>
+                <cmd>Add 7 Tbsp ice water and pulse just until moist clumps or small balls form.
+                    Press a piece of dough between your finger tips and if the dough sticks
+                    together, you have added enough water. If not, add more water a teaspoon full at
+                    a time. Be careful not to add too much water or the dough will be sticky and
+                    difficult to roll out.</cmd>
+            </step>
+            <step>
+                <cmd>Transfer dough to a clean work surface, and gather dough together into a ball
+                    (it should not be smooth and DO NOT knead the dough). Divide dough in half and
+                    flatten to form 2 disks. Cover with plastic wrap and refrigerate 1 hour before
+                    using in recipes that call for pie crust. </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

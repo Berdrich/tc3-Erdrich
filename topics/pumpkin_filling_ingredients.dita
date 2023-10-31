@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="pumpkin_filling_ingredients">
+    <title>Pumpkin Filling Ingredients</title>
+    <shortdesc>List of ingredients for pumpkin filling</shortdesc>
+    <refbody>
+        <example>
+            <ul id="ul_im2_qbj_hzb">
+                <li>1 (16 ounce) can pumpkin puree </li>
+                <li>1 (14 ounce) can sweetened condensed milk</li>
+                <li>2 large eggs</li>
+                <li>1 teaspoon pumpkin pie spice</li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

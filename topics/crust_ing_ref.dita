@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference">
+    <title>Crust Ingredients</title>
+    <shortdesc>List of ingredients for pumpkin filling</shortdesc>
+    <refbody>
+        <example>
+            <ul>
+                <li>
+                    <p>2 1/2 cups all-purpose flour, plus more to dust, *measured correctly </p>
+                </li>
+                <li>
+                    <p>1/2 Tbsp granulated sugar </p>
+                </li>
+                <li>
+                    <p>1/2 tsp sea salt </p>
+                </li>
+                <li>
+                    <p>1/2 lb COLD unsalted butter, (2 sticks) diced into 1/4" pieces </p>
+                </li>
+                <li>
+                    <p>7 Tbsp ice water, (7 to 8 Tbsp)</p>
+                </li>
+            </ul>
+        </example>
+    </refbody>
+</reference>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept">
+    <title>Pumpkin Pie</title>
+    <shortdesc>This tutorial will show you how to create a pumpkin pie. </shortdesc>
+    <conbody>
+        <p>Pumpkin pie is likely the best pie for exactly two months out of the year: October and
+            November. Though scholars debate the accuracy of this statement, it is our fervent
+            belief that this is true. </p>
+        <p>To create a pumpkin pie, you will first make the crust, then the pie filling, and finally
+            assemble and bake. <image href="../images/pumpkin_pie.jpg" id="image_zjh_3bj_hzb"/></p>
+    </conbody>
+</concept>

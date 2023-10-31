@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="pumpkin_filling_ingredients">
+    <title>Apple Filling Ingredients</title>
+    <shortdesc>List of ingredients for apple filling</shortdesc>
+    <refbody>
+        <example>
+            <ul id="ul_im2_qbj_hzb">
+                <li>About 5 cups thinly sliced apples (peeled and cored), 8-10 medium apples </li>
+                <li>3 tablespoons sugar </li>
+                <li>3 tablespoons all-purpose flour </li>
+                <li>1-2 teaspoons cinnamon </li>
+                <li>¼ teaspoon salt </li>
+                <li>2 tablespoons butter, cut into small pieces </li>
+            </ul>
+        </example>
+    </refbody>
+</reference>
